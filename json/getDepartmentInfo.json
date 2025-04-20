@@ -1,0 +1,29 @@
+[
+	{
+		"code": 200,
+		"success": true,
+		"data": {
+			"卡号": {
+				"name": "校园卡",
+				"model": "<div class=\"card-style-div\" style=\"position: relative;width:100%;height:auto;\"><img class=\"card-img-bg\" src=\"https://ecard.tmucmc.edu.cn/minio/public/card-bg/card-logo.png\" style=\"width: 100%;height:auto;z-index:-1;\"><img class=\"card-img-custom\" src=\"https://ecard.tmucmc.edu.cn/minio/public/logo/card-logo.png\" style=\"position: absolute;top:0%;left:3.5%;width:29.5%;height:auto;border-radius:4px;\"><img class=\"card-img-user\" onerror=\"this.src='https://ecard.tmucmc.edu.cn/minio/public/others/avatar-default.png';this.οnerrοr=null\" src=\"https://ecard.tmucmc.edu.cn/minio/photo/upload/20230815/6eac7*******24.png\" style=\"width:25%;height:auto;position: absolute;top:18.3061797752809%;left:5.25%;border-radius:4px;\"/><div class=\"card-info-custom\" style=\"position: absolute;color:#000000;top:23.605337078651683%;left:53.5%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">姓名</span></div><div class=\"card-info-custom\" style=\"position: absolute;color:#000000;top:38.53932584269663%;left:53.5%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">学号</span></div><div class=\"card-info-custom\" style=\"position: absolute;color:#000000;top:54.436797752808985%;left:53.75%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">具体院系</span></div><div class=\"card-info-custom\" style=\"position: absolute;color:#000000;top:69.37078651685393%;left:53.75%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">学生</span></div><div class=\"card-text-custom\" style=\"position: absolute;color:#000000;top:24.087078651685392%;left:37.5%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">姓名：</span></div><div class=\"card-text-custom\" style=\"position: absolute;color:#000000;top:38.53932584269663%;left:37.25%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">学工号：</span></div><div class=\"card-text-custom\" style=\"position: absolute;color:#000000;top:54.436797752808985%;left:37%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">部门：</span></div><div class=\"card-text-custom\" style=\"position: absolute;color:#000000;top:68.40730337078651%;left:37.25%;\"><span class=\"\" style=\"font-size:14px;color:#000000;\">身份：</span></div></div>",
+				"id": "-1",
+				"userName": null,
+				"sno": "学号",
+				"account": "卡号",
+				"idNumber": null,
+				"identityName": null,
+				"departmentName": null,
+				"campusName": null,
+				"cardName": null,
+				"cardTypeName": null,
+				"theOtherSide": null,
+				"priority": null
+			}
+		},
+		"msg": "操作成功"
+	},
+	{
+		"code": 401,
+		"message": "请求未授权"
+	}
+]

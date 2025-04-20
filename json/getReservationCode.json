@@ -1,0 +1,29 @@
+[
+	{
+		"RetNo": 0,
+		"RetDsp": "预约码 0000 申请成功，此码在240分钟后失效",
+		"BookCode": "0000"
+	},
+	{
+		"RetNo": -24,
+		"RetDsp": "此用户当日已有预约，重复预约无效",
+		"BookCode": null
+	},
+	{
+		"//": "info错误",
+		"RetNo": -38,
+		"RetDsp": "info解密后空值，详见日志",
+		"BookCode": null
+	},
+	{
+		"//": "无info参数",
+		"Message": "No HTTP resource was found that matches the request URI 'http://yuyuesk.com.cn/api/BookCodeReq?token=*****************************************",
+		"MessageDetail": "No action was found on the controller 'SyKs' that matches the request."
+	},
+	{
+		"//": "token错误",
+		"RetNo": -9,
+		"RetDsp": "BookCodeReq的输入参数无效或出错",
+		"BookCode": null
+	}
+]

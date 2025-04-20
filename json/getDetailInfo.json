@@ -1,0 +1,72 @@
+[
+	{
+		"code": 200,
+		"success": true,
+		"data": {
+			"retcode": "0",
+			"errmsg": null,
+			"account": null,
+			"sno": null,
+			"card": [
+				{
+					"account": "卡号",
+					"name": "学生姓名",
+					"//": "余额=unsettle_amount+db_balance",
+					"unsettle_amount": 2458,
+					"db_balance": 647,
+					"acc_status": 0,
+					"lostflag": 0,
+					"freezeflag": 0,
+					"barflag": 0,
+					"idflag": 1,
+					"createdate": null,
+					"//": "过期时间",
+					"expdate": "20****15",
+					"cardtype": "***#正式卡",
+					"cardname": "",
+					"bankacc": "",
+					"autotrans_limite": 2000,
+					"autotrans_amt": 10000,
+					"autotrans_flag": 1,
+					"mscard": 0,
+					"elec_accamt": 0,
+					"phone": "",
+					"cert": "身份证号",
+					"accinfo": null,
+					"voucher": "",
+					"voucherStatus": 0,
+					"card_background": null,
+					"card_logo": "/public/logo/card-logo.png",
+					"card_name": "学生卡",
+					"//": "学号",
+					"card_name_en": "学号",
+					"department_name": null,
+					"card_font_color": null,
+					"auth_code_background": null,
+					"auth_code_font_color": null,
+					"singlelimit": 0,
+					"daycostlimit": 0,
+					"nonpwdlimit": 0,
+					"debitamt": -5,
+					"flag": "000001000100001",
+					"schcode": "01",
+					"custMemberId": null,
+					"custId": null,
+					"acctId": null,
+					"cardId": null,
+					"scbkbs": null,
+					"sno": "学号"
+				}
+			]
+		},
+		"msg": "操作成功"
+	},
+	{
+		"code": 401,
+		"message": "缺失令牌,鉴权失败"
+	},
+	{
+		"code": 401,
+		"message": "已经在其他设备登录"
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"Message": "No HTTP resource was found that matches the request URI 'http://yuyuesk.com.cn/api/BookCodeReqCancel??info=*****************************************'.",
+		"MessageDetail": "No action was found on the controller 'SyKs' that matches the request."
+	},
+	{
+		"RetNo": 0,
+		"RetDsp": "预约码 0000 取消成功",
+		"BookCode": "0000"
+	},
+	{
+		"RetNo": -34,
+		"RetDsp": "已经取消，重复取消无效",
+		"BookCode": null
+	}
+]
