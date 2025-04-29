@@ -1,30 +1,35 @@
 [
-	{
-		"access_token": "******.****************",
-		"token_type": "bearer",
-		"refresh_token": "eyJhbGci*****.*************",
-		"expires_in": 6047999,
-		"scope": "all",
-		"tenant_id": "1",
-		"is_first_login": false,
-		"flag": "00000",
-		"sno": "学号",
-		"logintype": "snoNewKeyboard",
-		"name": "姓名",
-		"mobile": "",
-		"id": 977,
-		"loginFrom": "h5",
-		"uuid": "uuid",
-		"client_id": "mobile_service_platform",
-		"is_password_expired": false,
-		"jti": "52****d9-****-****-****-1*******3bc0"
-	},
-	{
-		"timestamp": "2025-04-19T00::00:00.000+0000",
-		"status": 401,
-		"error": "Unauthorized",
-		"message": "Unauthorized",
-		"path": "/oauth/token"
-	},
-	{ "status": 400, "message": "用户名或密码错误", "code": 8000, "data": null }
+    {
+        "access_token": "******.****************",
+        "token_type": "bearer",
+        "refresh_token": "eyJhbGci*****.*************",
+        "expires_in": 6047999,
+        "scope": "all",
+        "tenant_id": "1",
+        "is_first_login": false,
+        "flag": "00000",
+        "sno": "学号",
+        "logintype": "snoNewKeyboard",
+        "name": "姓名",
+        "mobile": "",
+        "id": 977,
+        "loginFrom": "h5",
+        "uuid": "uuid",
+        "client_id": "mobile_service_platform",
+        "is_password_expired": false,
+        "jti": "52****d9-****-****-****-1*******3bc0"
+    },
+    {
+        "timestamp": "2025-04-19T00::00:00.000+0000",
+        "status": 401,
+        "error": "Unauthorized",
+        "message": "Unauthorized",
+        "path": "/oauth/token"
+    },
+    {
+        "status": 400,
+        "message": "用户名或密码错误",
+        "code": 8000,
+        "data": null
+    }
 ]

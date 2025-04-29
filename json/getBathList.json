@@ -1,44 +1,48 @@
 [
-	{
-		"RetNo": 0,
-		"RetDsp": "操作成功 共 3 笔有效记录 ",
-		"List": [
-			{
-				"ClassNo": 5,
-				"ClassName": "一楼男生浴室",
-				"PosNum": 100,
-				"WarnPosNum": 0,
-				"UseFreeRate": 8800,
-				"BookRate": 500,
-				"Actkind": 0,
-				"BookCode": ""
-			},
-			{
-				"ClassNo": 6,
-				"ClassName": "二楼女生浴室",
-				"PosNum": 100,
-				"WarnPosNum": 0,
-				"UseFreeRate": 7500,
-				"BookRate": 100,
-				"Actkind": 0,
-				"BookCode": ""
-			},
-			{
-				"ClassNo": 7,
-				"ClassName": "三楼女生浴室",
-				"PosNum": 100,
-				"WarnPosNum": 0,
-				"UseFreeRate": 9600,
-				"BookRate": 400,
-				"Actkind": 0,
-				"BookCode": ""
-			}
-		]
-	},
-	{ "RetNo": -9, "RetDsp": "BookCodeReq的输入参数无效或出错", "List": null },
-	{
-		"RetNo": -38,
-		"RetDsp": "info解密后空值，详见日志",
-		"List": null
-	}
+    {
+        "RetNo": 0,
+        "RetDsp": "操作成功 共 3 笔有效记录 ",
+        "List": [
+            {
+                "ClassNo": 5,
+                "ClassName": "一楼男生浴室",
+                "PosNum": 100,
+                "WarnPosNum": 0,
+                "UseFreeRate": 8800,
+                "BookRate": 500,
+                "Actkind": 0,
+                "BookCode": ""
+            },
+            {
+                "ClassNo": 6,
+                "ClassName": "二楼女生浴室",
+                "PosNum": 100,
+                "WarnPosNum": 0,
+                "UseFreeRate": 7500,
+                "BookRate": 100,
+                "Actkind": 0,
+                "BookCode": ""
+            },
+            {
+                "ClassNo": 7,
+                "ClassName": "三楼女生浴室",
+                "PosNum": 100,
+                "WarnPosNum": 0,
+                "UseFreeRate": 9600,
+                "BookRate": 400,
+                "Actkind": 0,
+                "BookCode": ""
+            }
+        ]
+    },
+    {
+        "RetNo": -9,
+        "RetDsp": "BookCodeReq的输入参数无效或出错",
+        "List": null
+    },
+    {
+        "RetNo": -38,
+        "RetDsp": "info解密后空值，详见日志",
+        "List": null
+    }
 ]
